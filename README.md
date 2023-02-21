@@ -31,7 +31,7 @@ I am a Master student of Computer Science and a python developer; interested in 
 <table >
   <h1  >Github Stats</h1>
   <tr >
-    <th> <img src="https://github-readme-stats.vercel.app/api?username=createwithabd&show_icons=true&theme=dark&icon_color=9d4edd&ring_color=9d4edd&line_height=30&title_color=9d4edd&bg_color=ede5fa" alt="Abdullah stats" /> </th>
+    <th> <img src="https://github-readme-stats.vercel.app/api?username=createwithabd&show_icons=true&theme=dark&icon_color=9d4edd&ring_color=9d4edd&line_height=30&title_color=9d4edd&bg_color=ede5fa&include_all_commits=True&count_private=True&hide=issues,contribs"/> </th>
     <th> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=createwithabd&card_width=350&title_color=9d4edd&bg_color=ede5fa&hide_progress=True"/> </th>
   </tr>
 </table>
