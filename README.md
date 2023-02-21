@@ -4,6 +4,7 @@ Hi 👋,   I'm
 I am a Master student of Computer Science and a python developer; interested in working with projects related to software development. i mostly work with Python and profound knowledge about languages like javascript, html, etc.  
 
 <br>
+
 <div style="margin-bottom: 1rem;">
   <a href="#"> 
     <img src="https://komarev.com/ghpvc/?username=createwithabd&color=9d4edd&style=for-the-badge"></img>
