@@ -46,7 +46,7 @@ I am a Master student of Computer Science and a python developer; interested in 
 
 
 
-
+<!-- 
 <style>
 
 /* .subtitle{
@@ -66,4 +66,4 @@ I am a Master student of Computer Science and a python developer; interested in 
 a {
   padding-right: 10px
 }
-</style>
+</style> -->
