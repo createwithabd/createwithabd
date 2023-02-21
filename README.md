@@ -1,6 +1,9 @@
 
 Hi 👋,   I'm
 <h2>Abdullah Amjad</h2>
+I am a Master student of Computer Science and a python developer; interested in working with projects related to software development. i mostly work with Python and profound knowledge about languages like javascript, html, etc.  
+
+<br>
 <div style="margin-bottom: 1rem;">
   <a href="#"> 
     <img src="https://komarev.com/ghpvc/?username=createwithabd&color=9d4edd&style=for-the-badge"></img>
@@ -12,11 +15,6 @@ Hi 👋,   I'm
     <img src="https://img.shields.io/static/v1?&label=LinkedIn&message=Profile&style=for-the-badge&logo=linkedin&color=9d4edd"></img>
   </a>
 </div>
-<br>
-I am a Master student of Computer Science and a python developer; interested in working with projects related to software development. i mostly work with Python and profound knowledge about languages like javascript, html, etc.  
-
-<br>
-
 
 
 <h1>Learning</h1>
