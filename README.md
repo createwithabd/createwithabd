@@ -1,6 +1,6 @@
 
 Hi 👋,   I'm
-<h2>Abdullah Amjad</h2>
+<h1>Abdullah Amjad</h1>
 I am a Master student of Computer Science and a python developer; interested in working with projects related to software development. i mostly work with Python and profound knowledge about languages like javascript, html, etc.  
 
 
@@ -17,8 +17,6 @@ I am a Master student of Computer Science and a python developer; interested in 
     <img src="https://img.shields.io/static/v1?&label=LinkedIn&message=Profile&style=for-the-badge&logo=linkedin&color=9d4edd"></img>
   </a>
 </div>
-
-
 <h1>Learning</h1>
 
 🔭 I’m currently working on Sensor Trust with Anomaly Detection Techniques.
@@ -26,6 +24,9 @@ I am a Master student of Computer Science and a python developer; interested in 
 🌱 I’m currently learning AWS
 
 💬 Ask me about python-packages, data science, web development,
+
+<h1>Tools & Technologies </h1>
+
 
 <table >
   <h1  >Github Stats</h1>
