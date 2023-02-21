@@ -12,6 +12,7 @@ Hi 👋,   I'm
     <img src="https://img.shields.io/static/v1?&label=LinkedIn&message=Profile&style=for-the-badge&logo=linkedin&color=9d4edd"></img>
   </a>
 </div>
+<br>
 I am a Master student of Computer Science and a python developer; interested in working with projects related to software development. i mostly work with Python and profound knowledge about languages like javascript, html, etc.  
 
 <br>
