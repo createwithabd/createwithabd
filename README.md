@@ -1,7 +1,6 @@
-<div class="div-set">
-    <span class="hi-title">Hi 👋,   I'm</span>
+<div style="margin-bottom: 1rem;">
+    <span style="font-size: 25px;font-weight: bold;">Hi 👋,   I'm</span>
     <div>
-      <span class="hi-title"></span>
       <h2><span class="my-name">Abdullah Amjad</span></h2>
       <span class="subtitle">
         I am a Master student of Computer Science and a python developer; interested in working with projects related to software development. i mostly work with Python and profound knowledge about languages like javascript, html, etc.  
@@ -10,7 +9,7 @@
 
 </div>
 
-<div class="div-set">
+<div style="margin-bottom: 1rem;">
   <a href="#"> 
     <img src="https://komarev.com/ghpvc/?username=createwithabd&color=9d4edd&style=for-the-badge"></img>
   </a>
@@ -58,8 +57,7 @@
     margin-bottom: 1rem;
 }
 .hi-title{
-    font-size: 25px;
-    font-weight: bold;
+    font-size: 25px;font-weight: bold;
 }
 
 .my-name{
