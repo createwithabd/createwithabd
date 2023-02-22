@@ -1,8 +1,8 @@
 
 Hi 👋,   I'm
 <h1>Abdullah Amjad</h1>
-I am a Master student of Computer Science and a python developer; interested in working with projects related to software development. i mostly work with Python and profound knowledge about languages like javascript, html, etc.  
 
+A `Technical Solution Engineer`  interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` frameworks like `django` and `Flask`. I have projects related to NLP, and Data Science as well. 
 
 <br>
 <br>
@@ -19,14 +19,39 @@ I am a Master student of Computer Science and a python developer; interested in 
 </div>
 <h1>Learning</h1>
 
-🔭 I’m currently working on Sensor Trust with Anomaly Detection Techniques.
+🔭 I’m currently working on `Finding Sensor Trust of Image and Time-Series Data with Anomaly Detection Technique.` 
 
-🌱 I’m currently learning AWS
+🌱 I’m currently learning `AWS - Cloud Practitioner Certification Course`
 
-💬 Ask me about python-packages, data science, web development,
+<h1>Tools & Libraries</h1>
 
-<h1>Tools & Technologies </h1>
+<table> 
 
+  <tr> 
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Python&color=5d7bd5&logo=python&style=for-the-badge' /></td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Javascript&color=ffd400&logo=javascript&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Html5&color=d36135&logo=HTML5&style=for-the-badge' /></td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=CSS&color=00509d&logo=CSS3&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Node.js&color=38b000&logo=Node.js&style=for-the-badge' /></td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fdbe39&message=Express.js&color=ffe14c&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Node-RED&color=d1b2e0&logo=Node-RED&style=for-the-badge' /></td>
+  </tr>
+  <tr> 
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=202020&message=C%2B%2B&color=fdc500&logo=C%2B%2B&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Javascript&color=ffd400&logo=javascript&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Html5&color=d36135&logo=HTML5&style=for-the-badge' /></td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=CSS&color=00509d&logo=CSS3&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Node.js&color=38b000&logo=Node.js&style=for-the-badge' /></td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fdbe39&message=Express.js&color=ffe14c&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Node-RED&color=d1b2e0&logo=Node-RED&style=for-the-badge' /></td>
+
+
+  </tr>
+
+</table>
+
+
+<br>
 
 <table >
   <h1  >Github Stats</h1>
