@@ -2,7 +2,7 @@
 Hi 👋,   I'm
 <h1>Abdullah Amjad</h1>
 
-A `Technical Solution Engineer`  interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` frameworks like `django` and `Flask`. I have projects related to NLP, and Data Science as well. 
+A `Technical Solution Engineer`  interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` frameworks like `django` and `Flask`. I have done projects related to NLP, and Data Science as well. 
 
 <br>
 <br>
