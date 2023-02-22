@@ -1,10 +1,6 @@
 
 Hi 👋,   I'm
 <h1>Abdullah Amjad</h1>
-
-A `Technical Solution Engineer`  interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` frameworks like `django` and `Flask`. I have done projects related to NLP, and Data Science as well. 
-
-<br>
 <div style="margin-bottom: 1rem;">
   <a href="#"> 
     <img src="https://komarev.com/ghpvc/?username=createwithabd&color=9d4edd&style=for-the-badge"></img>
@@ -16,6 +12,10 @@ A `Technical Solution Engineer`  interested in developing web applications and s
     <img src="https://img.shields.io/static/v1?&label=LinkedIn&message=Profile&style=for-the-badge&logo=linkedin&color=9d4edd"></img>
   </a>
 </div>
+A `Technical Solution Engineer`  interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` frameworks like `django` and `Flask`. I have done projects related to NLP, and Data Science as well. 
+
+<br>
+
 <h1>Learning</h1>
 
 🔭 I’m currently working on `Finding Sensor Trust of Image and Time-Series Data with Anomaly Detection Technique.` 
