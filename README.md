@@ -27,26 +27,27 @@ A `Technical Solution Engineer`  interested in developing web applications and s
 
 <table> 
 
-  <tr> 
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Python&color=5d7bd5&logo=python&style=for-the-badge' /></td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Javascript&color=ffd400&logo=javascript&style=for-the-badge' /> </td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Html5&color=d36135&logo=HTML5&style=for-the-badge' /></td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=CSS&color=00509d&logo=CSS3&style=for-the-badge' /> </td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Node.js&color=38b000&logo=Node.js&style=for-the-badge' /></td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fdbe39&message=Express.js&color=ffe14c&style=for-the-badge' /> </td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Node-RED&color=d1b2e0&logo=Node-RED&style=for-the-badge' /></td>
-  </tr>
-  <tr> 
+<tr> 
+      <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Python&color=5d7bd5&logo=python&style=for-the-badge' /></td>
+      <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Javascript&color=ffd400&logo=javascript&style=for-the-badge' /> </td>
+      <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Html5&color=d36135&logo=HTML5&style=for-the-badge' /></td>
+      <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=CSS&color=00509d&logo=CSS3&style=for-the-badge' /> </td>
+      <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Node.js&color=38b000&logo=Node.js&style=for-the-badge' /></td>
+      <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fdbe39&message=Express.js&color=ffe14c&style=for-the-badge' /> </td>
+      <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Node-RED&color=d1b2e0&logo=Node-RED&style=for-the-badge' /></td>
+</tr>
+
+<tr> 
     <td> <img src='https://img.shields.io/static/v1?label=&labelColor=202020&message=C%2B%2B&color=fdc500&logo=C%2B%2B&style=for-the-badge' /> </td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Javascript&color=ffd400&logo=javascript&style=for-the-badge' /> </td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Html5&color=d36135&logo=HTML5&style=for-the-badge' /></td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=CSS&color=00509d&logo=CSS3&style=for-the-badge' /> </td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Node.js&color=38b000&logo=Node.js&style=for-the-badge' /></td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fdbe39&message=Express.js&color=ffe14c&style=for-the-badge' /> </td>
-    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=454955&message=Node-RED&color=d1b2e0&logo=Node-RED&style=for-the-badge' /></td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=d7263d&message=Pandas&color=090c9b&logo=pandas&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=24272b&message=scikit-learn&color=f18f01&logo=scikit-learn&style=for-the-badge' /></td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=f7f9f9&message=Selenium&color=679436&logo=Selenium&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=9c3848&message=VsCode&color=0a85ed&logo=Visual%20Studio%20Code&style=for-the-badge' /></td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=f39237&message=Express.js&color=9ee493&logo=PyCharm&style=for-the-badge' /> </td>
+    <td> <img src='https://img.shields.io/static/v1?label=&labelColor=eff2f1&message=BASH&color=20bf55&logo=GNU Bash&style=for-the-badge' /></td>
 
 
-  </tr>
+</tr>
 
 </table>
 
