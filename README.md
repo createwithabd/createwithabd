@@ -12,6 +12,7 @@ Hi 👋,   I'm
     <img src="https://img.shields.io/static/v1?&label=LinkedIn&message=Profile&style=for-the-badge&logo=linkedin&color=9d4edd"></img>
   </a>
 </div>
+
 A `Technical Solution Engineer`  interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` frameworks like `django` and `Flask`. I have done projects related to NLP, and Data Science as well. 
 
 <br>
