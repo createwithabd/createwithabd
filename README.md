@@ -13,7 +13,12 @@ Hi 👋, I'm
   </a>
 </div>
 
-A `Technical Solution Engineer` interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` and frameworks like `django` and `Flask`. I have done projects related to NLP, and Data Science as well.
+I am a `Technical Solution Engineer` with a passion for developing innovative solutions that help businesses solve complex problems. With `two years` of experience in the field, I have sharpen my skills in working with clients to understand their business requirements and developing solutions that meet those requirements.
+As a solution engineer, I am skilled in using a variety of technologies and tools to design and develop custom solutions that address unique business challenges. My expertise includes `Web App Development`, `automation` using `python` and `bash` scripts, `web scrapping`, `data collection`, `data analysis` using packages like `pandas`, `numPy` and `seaborn`. I am also familiar with various development frameworks, such as `React`, `Django`, `Flask`.
+
+In addition to my technical skills, I am passionate about continuous learning and development. I am always looking for new ways to improve my skills and stay up-to-date with the latest trends and technologies in the industry.
+
+If you're looking for a solution engineer who is innovative, collaborative, and skilled, please feel free to connect with me. I would love the opportunity to discuss how I can help your business achieve its goals through custom solutions.
 
 <h1>Learning</h1>
 
