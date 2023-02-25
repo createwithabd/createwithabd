@@ -1,5 +1,5 @@
+Hi 👋, I'm
 
-Hi 👋,   I'm
 <h1>Abdullah Amjad</h1>
 <div style="margin-bottom: 1rem;">
   <a href="#"> 
@@ -13,17 +13,17 @@ Hi 👋,   I'm
   </a>
 </div>
 
-A `Technical Solution Engineer`  interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` frameworks like `django` and `Flask`. I have done projects related to NLP, and Data Science as well. 
+A `Technical Solution Engineer` interested in developing web applications and softwares. I love working with `python` and developed different web application using `python` and frameworks like `django` and `Flask`. I have done projects related to NLP, and Data Science as well.
 
 <h1>Learning</h1>
 
-🔭 I’m currently working on `Finding Sensor Trust of Image and Time-Series Data with Anomaly Detection Technique.` 
+🔭 I’m currently working on `Finding Sensor Trust of Image and Time-Series Data with Anomaly Detection Technique.`
 
 🌱 I’m currently learning `AWS - Cloud Practitioner Certification Course`
 
 <h1>Tools & Libraries</h1>
 
-<table> 
+<table>
 
 <tr> 
       <td> <img src='https://img.shields.io/static/v1?label=&labelColor=fbfaff&message=Python&color=5d7bd5&logo=python&style=for-the-badge' /></td>
@@ -44,11 +44,9 @@ A `Technical Solution Engineer`  interested in developing web applications and s
     <td> <img src='https://img.shields.io/static/v1?label=&labelColor=f39237&message=Express.js&color=9ee493&logo=PyCharm&style=for-the-badge' /> </td>
     <td> <img src='https://img.shields.io/static/v1?label=&labelColor=eff2f1&message=BASH&color=20bf55&logo=GNU Bash&style=for-the-badge' /></td>
 
-
 </tr>
 
 </table>
-
 
 <br>
 
@@ -64,13 +62,7 @@ A `Technical Solution Engineer`  interested in developing web applications and s
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=createwithabd&theme=dark&mode=weekly&ring=f5811f&fire=ff6d00&background=ede5fa&dates=ba93dc&sideNums=d14081&sideLabels=934bdc&currStreakNum=d14081&currStreakLabel=934bdc"/>
 </p>
 
-
-
-
-
-
-
-<!-- 
+<!--
 <style>
 
 /* .subtitle{
